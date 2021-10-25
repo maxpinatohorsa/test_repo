@@ -1,0 +1,6 @@
+COLUMN TABLE account_history (
+  account_id INT primary key,
+  account_owner_id NVARCHAR(10),
+  account_balance DOUBLE
+
+ );

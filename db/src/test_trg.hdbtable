@@ -1,0 +1,6 @@
+COLUMN TABLE account_history_trg (
+  account_id INT primary key,
+  account_owner_id NVARCHAR(10),
+  account_balance DOUBLE,
+  account_test nvarchar(5)
+ );

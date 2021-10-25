@@ -1,0 +1,14 @@
+{
+  "role": {
+    "name": "test_role",
+    "object_privileges": [
+      {
+        "name": "test_cv",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
